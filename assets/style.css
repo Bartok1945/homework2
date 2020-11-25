@@ -1,10 +1,24 @@
 
+.navbar {
+    background-color: rgb(182, 121, 22)
+}
+
 .container {
+    
+    margin-right: ;
+}
+
+.col-md-4{
+    margin-right:;
+}
+
+.col-md-8 {
     background-color: white;
 }
 .hs {
     float: left;
     margin-right: 10px;
+    margin-top: 15px;
 }
 
 body {
