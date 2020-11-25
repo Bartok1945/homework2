@@ -1,9 +1,12 @@
 
-
-.body {
-    background-color: orangered;
+.container {
+    background-color: white;
+}
+.hs {
+    float: left;
+    margin-right: 10px;
 }
 
-.nav-link {
-    float: right;
+body {
+    background-image: url("cool-background.png");
 }
