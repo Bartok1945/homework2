@@ -16,3 +16,26 @@
 body {
     background-image: url("cool-background.png");
 }
+
+.portfolio {
+    margin-top: 25px;
+    margin-left: 80px;
+}
+
+
+.contact {
+    margin-left: 100px;
+}
+
+.form-group {
+    padding-left: 100px;
+    
+}
+
+.btn{
+    margin-left: 100px;
+}
+
+.form-group {
+    padding-right: 25px;
+}
