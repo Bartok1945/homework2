@@ -33,7 +33,10 @@ p {
     color: rgb(182, 121, 22);
 }
 
-
+.character-sheet {
+    width: 150%
+    
+}
 
 .col-md-4 {
     
