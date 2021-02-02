@@ -1,9 +1,33 @@
-# Thom's Responsive Portfolio
-## Project Overview
-* The goal of this project was to create a responsive layout for a personal portfolio website
+# Responsive_Portfolio
 
-## Tech used
-* This project employs html, css, and bootstrap components.
+## Contents
 
-## Coming soon
-* JavaScript functionality so everything works properly.
+* [Introduction](#Introduction)
+* [Technologies](#Technologies)
+* [Contributors](#Contributors)
+* [Screenshot](#Screenshot)
+* [Link](#Link)
+
+## Introduction
+
+This is a portfolio website to serve as a personal marketing tool for potential employers to view when considering me for hire.
+
+## Technologies
+
+Project is created with:
+
+* Visual Studio Code 1.51.1
+* HTML
+* CSS-Bootstrap
+
+
+
+## Screenshot
+
+![image](./assets/images/charactersheet.png)
+![image](./assets/images/welcome.png)
+
+
+## Link
+
+[Adeventure Companion](https://bartok1945.github.io/adventure_companion/)
