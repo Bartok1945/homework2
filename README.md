@@ -1,12 +1,5 @@
 # Responsive_Portfolio
 
-## Contents
-
-* [Introduction](#Introduction)
-* [Technologies](#Technologies)
-* [Contributors](#Contributors)
-* [Screenshot](#Screenshot)
-* [Link](#Link)
 
 ## Introduction
 
@@ -21,13 +14,6 @@ Project is created with:
 * CSS-Bootstrap
 
 
-
-## Screenshot
-
-![image](./assets/images/charactersheet.png)
-![image](./assets/images/welcome.png)
-
-
 ## Link
 
-[Adeventure Companion](https://bartok1945.github.io/adventure_companion/)
+[Personal Portfolio](https://bartok1945.github.io/responsive_portfolio/)
