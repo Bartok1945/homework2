@@ -5,6 +5,9 @@
 
 This is a portfolio website to serve as a personal marketing tool for potential employers to view when considering me for hire.
 
+### Screenshot:
+![Image](/assets/portfolio.PNG)
+
 ## Technologies
 
 Project is created with:
